@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Genesis</string>
+
+    <string name="question_bank">Question Bank</string>
+    <string name="Syllabus">Syllabus</string>
+    <string name="Referance_books">Reference Books</string>
+    <string name="lab_records">Lab Records</string>
+    <string name="notes">PDF Notes</string>
+    <string name="videos">Video library</string>
+    <string name="subtext_cardview">click to view</string>
+    <string name="notifications">University Notifications</string>
+    <string name="university">Latest Notifactions from University</string>
+    <string name="updates_available">Updated Content available</string>
+    <string name="updates_not_available">No Updates avaialble</string>
+
+    <string name="home">Home</string>
+    <string name="questionBank">Question Bank</string>
+    <string name="syllabus">Syllabus</string>
+    <string name="referanceBooks">Reference Books</string>
+    <string name="records">Records</string>
+    <string name="Notes">Notes</string>
+    <string name="Videos">Video Library</string>
+
+    <string name="notification_sheet">New Notifications</string>
+    <string name="sem1">Semester One</string>
+    <string name="sem2">Semester Two</string>
+    <string name="sem3">Semester Three</string>
+    <string name="sem4">Semester Four</string>
+    <string name="sem5">Semester Five</string>
+    <string name="sem6">Semester Six</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="name">Name</string>
+    <string name="link">Link</string>
+    <string name="download">Download</string>
+</resources>

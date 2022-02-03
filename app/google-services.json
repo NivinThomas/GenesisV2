@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374013056679",
+    "firebase_url": "https://genesis-86043-default-rtdb.firebaseio.com",
+    "project_id": "genesis-86043",
+    "storage_bucket": "genesis-86043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374013056679:android:9d6fd10ef09f22ac656d82",
+        "android_client_info": {
+          "package_name": "com.octanelabs.genesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374013056679-a2gsguvfm3ddat6e8nr1hl8o5jmn4d6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgQczS6V98Y_MyMc6jev1UAVMeMljbvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374013056679-a2gsguvfm3ddat6e8nr1hl8o5jmn4d6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "374013056679-62rs460kt783med854t52l5740j1vjf4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.octanelabs.genesis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
