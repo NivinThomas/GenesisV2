@@ -24,6 +24,7 @@ public class home extends AppCompatActivity {
 
 
         questionbank=findViewById(R.id.qb_img);
+        syllabus=findViewById(R.id.sy_img);
         books=findViewById(R.id.rb_img);
         records=findViewById(R.id.lr_img);
         notes=findViewById(R.id.notes_img);
@@ -36,6 +37,15 @@ public class home extends AppCompatActivity {
             public void onClick(View view) {
                 Toast.makeText(home.this, "Question Bank", Toast.LENGTH_SHORT).show();
                 startActivity(new Intent(home.this,question_bank.class));
+            }
+        });
+        //Going to Syllabus view
+        syllabus.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(home.this, "Syllabus", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(home.this,syllabus.class));
+
             }
         });
 
